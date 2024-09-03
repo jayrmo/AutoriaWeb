@@ -1,5 +1,5 @@
-# AutoriaWeb
-Projetos para Disciplina de Autoria Web
+# Autoria Web
+- Projeto de um software para Profissionais de Nutrição e Médicos.
 
 
 ##
