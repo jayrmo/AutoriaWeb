@@ -1,5 +1,8 @@
 # Autoria Web
-- NutriPlan é um software para Profissionais de Nutrição e Médicos gerir consultas e personalisar receitas nutricionais e prescrições.Conta também com um módulo de acesso para pacientes acompanharem sua evoluções nutricionais.
+- Esse projeto tem como objetivo entregar os protótipos e a códificação do front-end das interfaces principais.
+  
+## **NutriPlan**
+- O Nutriplan é um software para Profissionais de Nutrição e Médicos gerir consultas e personalisar receitas nutricionais e prescrições.Conta também com um módulo de acesso para pacientes acompanharem sua evoluções nutricionais.
 
 
 ##
