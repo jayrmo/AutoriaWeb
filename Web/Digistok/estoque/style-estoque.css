@@ -1,0 +1,77 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Futura Bk BT";
+}
+
+.geral{
+  margin-left: 210px;
+  margin-right: 20px;
+  font-family: "Futura Bk BT";
+  background-color: white;
+}
+
+h1 {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.form-container {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.form-box {
+  background-color: #e0e0e0;
+  padding: 20px;
+  border-radius: 10px;
+  width: 48%;
+}
+.form-box h2 {
+  color: #00bcd4;
+}
+.form-box label {
+  display: block;
+  margin-bottom: 10px;
+  font-weight: bold;
+}
+.form-box input, .form-box select {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+.form-box button {
+  background-color: #0097a7;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.form-box button:hover {
+  background-color: #00796b;
+}
+.recent-movements {
+  margin-top: 20px;
+}
+.recent-movements h2 {
+  font-family: "Futura Bk BT";
+  font-size: 24px;
+  margin-bottom: 10px;
+}
+.recent-movements table {
+  width: 100%;
+  border-collapse: collapse;
+}
+.recent-movements th, .recent-movements td {
+  border: 1px solid #00bcd4;
+  padding: 10px;
+  text-align: left;
+}
+.recent-movements th {
+  background-color: #00bcd4;
+  color: white;
+}
